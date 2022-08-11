@@ -53,7 +53,6 @@ Interrupted!
 Press enter to interrupt...
 Sleeping for 3 seconds...
 Done!
-
 ```
 
 # Usage
