@@ -4,6 +4,12 @@
 
 InterruptibleSleep is a **single header c++ library** that allows you to **sleep for a specified amount of time** with the ability to **interrupt the sleep at any time**.
 
+# Features
+
+- sleep available for all time units
+- sleep interruptible at any time
+- check if the sleep has been interrupted
+
 # Installation
 
 Include the file [`InterruptibleSleep.hpp`](InterruptibleSleep.hpp) in your project.
