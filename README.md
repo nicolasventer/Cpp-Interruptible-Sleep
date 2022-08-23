@@ -19,6 +19,7 @@ No external dependencies.
 
 # Example
 
+*Content of [example.cpp](example.cpp):*
 ```cpp
 #include <chrono>
 #include <iostream>
